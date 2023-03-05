@@ -1,5 +1,5 @@
 # ATM-Controller
-
+---------------------------------------------------------------------------------------
 ## Cloning the Project
 ### To clone the project, run the following command in your terminal or command prompt:
 ### git clone https://github.com/wonholim02/ATM-Controller.git
