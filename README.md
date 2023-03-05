@@ -16,3 +16,4 @@
 ##### java Main
 ### This will compile and run the Main class, which contains the test scenario.
 ---------------------------------------------------------------------------------------
+![](https://res.infoq.com/articles/overcoming-privacy-challenges-synthetic-data/en/headerimage/Overcoming-Data-Scarcity-Privacy-Challenges-with-Synthetic-Data-header-1608564048402.jpg)
