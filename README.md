@@ -12,7 +12,7 @@
 ### The Main class contains a sample test scenario that you can modify to test the various operations.
 ---------------------------------------------------------------------------------------
 ### To run the Main class, navigate to the root directory of the cloned repository in your terminal or command prompt, and run the following command:
-#### javac Main.java
-#### java Main
+javac Main.java
+java Main
 ### This will compile and run the Main class, which contains the test scenario.
 ---------------------------------------------------------------------------------------
