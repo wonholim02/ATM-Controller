@@ -1,5 +1,13 @@
 # ATM-Controller
 ---------------------------------------------------------------------------------------
+## Contributer Information
+| NAME      | Email                |School                            |
+| --------- | -------------------- |----------------------------------|
+| Wonho Lim | wlim49@gatech.edu    | Georgia Institute of Technology  |
+---------------------------------------------------------------------------------------
+Programming Languages
+* Java
+---------------------------------------------------------------------------------------
 ## Cloning the Project
 ### To clone the project, run the following command in your terminal or command prompt:
 ### git clone https://github.com/wonholim02/ATM-Controller.git
